@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 108 108">
+
+    <defs>
+
+        <linearGradient
+            id="gradient"
+            gradientUnits="userSpaceOnUse"
+            x1="42.949"
+            x2="85.847"
+            y1="49.597"
+            y2="92.496">
+
+            <stop
+                offset="0.00"
+                stop-color="#00000044">
+            </stop>
+
+            <stop
+                offset="1.00"
+                stop-color="#00000000">
+            </stop>
+
+        </linearGradient>
+
+    </defs>
+
+    <g
+        id="Background">
+
+        <path
+            d="M0 0H108V108H0z"
+            fill="#2196f3ff">
+        </path>
+
+        <path
+            d="M9 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M19 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M29 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M39 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M49 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M59 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M69 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M79 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M89 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M99 0V108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 9H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 19H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 29H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 39H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 49H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 59H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 69H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 79H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 89H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M0 99H108"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M19 29H89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M19 39H89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M19 49H89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M19 59H89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M19 69H89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M19 79H89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M29 19V89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M39 19V89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M49 19V89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M59 19V89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M69 19V89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+        <path
+            d="M79 19V89"
+            stroke="#ffffff33"
+            stroke-width="0.80">
+        </path>
+
+    </g>
+
+    <g
+        id="Foreground">
+
+        <path
+            d="M31 63.928S37.4 52.928 43.1 50.828C50.3 48.228 69.1 49.428 69.1 49.428L107.2 87.528 107 108.928 75 107.928z"
+            fill="url(#gradient)">
+        </path>
+
+        <path
+            d="M65.3 45.828 69.1 39.228C69.3 38.828 69.2 38.328 68.8 38.128S67.9 38.028 67.7 38.428L63.8 45.128C57.5 42.328 50.4 42.328 44.1 45.128L40.2 38.428C40 38.028 39.5 37.928 39.1 38.128 38.8 38.328 38.7 38.828 38.9 39.228L42.7 45.828C36.2 49.428 31.7 56.028 31 63.928H77C76.3 56.028 71.8 49.428 65.3 45.828M43.4 57.328C42.6 57.328 41.9 56.828 41.6 56.128S41.5 54.628 42 54.028C42.5 53.528 43.4 53.328 44.1 53.628S45.3 54.628 45.3 55.428C45.3 56.528 44.5 57.328 43.4 57.328M64.6 57.328C63.8 57.328 63.1 56.828 62.8 56.128S62.7 54.628 63.2 54.028C63.7 53.528 64.6 53.328 65.3 53.628S66.5 54.628 66.5 55.428C66.5 56.528 65.6 57.328 64.6 57.328"
+            fill="#ffffffff">
+        </path>
+
+    </g>
+
+    <g
+        id="Monochrome"
+        display="none">
+
+        <path
+            d="M65.3 45.828 69.1 39.228C69.3 38.828 69.2 38.328 68.8 38.128S67.9 38.028 67.7 38.428L63.8 45.128C57.5 42.328 50.4 42.328 44.1 45.128L40.2 38.428C40 38.028 39.5 37.928 39.1 38.128 38.8 38.328 38.7 38.828 38.9 39.228L42.7 45.828C36.2 49.428 31.7 56.028 31 63.928H77C76.3 56.028 71.8 49.428 65.3 45.828M43.4 57.328C42.6 57.328 41.9 56.828 41.6 56.128S41.5 54.628 42 54.028C42.5 53.528 43.4 53.328 44.1 53.628S45.3 54.628 45.3 55.428C45.3 56.528 44.5 57.328 43.4 57.328M64.6 57.328C63.8 57.328 63.1 56.828 62.8 56.128S62.7 54.628 63.2 54.028C63.7 53.528 64.6 53.328 65.3 53.628S66.5 54.628 66.5 55.428C66.5 56.528 65.6 57.328 64.6 57.328"
+            fill="#ffffffff">
+        </path>
+
+    </g>
+
+    <g
+        id="Safe"
+        opacity="0.00">
+
+        <path
+            id="Safe_Square"
+            d="M82,90H26c-4.4183,0-8-3.5817-8-8V26c0-4.4183,3.5817-8,8-8h56c4.4183,0,8,3.5817,8,8v56C90,86.4183,86.4183,90,82,90z"
+            opacity="0.10">
+        </path>
+
+        <path
+            id="Safe_Circle"
+            d="M54,18c19.8822,0,36,16.1177,36,36S73.8822,90,54,90S18,73.8822,18,54S34.1177,18,54,18z"
+            opacity="0.10">
+        </path>
+
+    </g>
+
+</svg>

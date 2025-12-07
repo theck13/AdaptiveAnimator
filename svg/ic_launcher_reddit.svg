@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 108 108">
+
+    <g
+        id="Background">
+
+        <path
+            id="Background_Fill"
+            d="M0,0v108h108V0H0z"
+            fill="#ff4500">
+        </path>
+
+        <radialGradient
+            id="Gradient_Background_Ear_Right"
+            cx="74.5833"
+            cy="37.4654"
+            r="16.9933"
+            gradientTransform="matrix(1 0 0 -0.87 0 81.21)"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0.00"
+                stop-color="#feffff">
+            </stop>
+
+            <stop
+                offset="0.40"
+                stop-color="#feffff">
+            </stop>
+
+            <stop
+                offset="0.51"
+                stop-color="#f9fcfc">
+            </stop>
+
+            <stop
+                offset="0.62"
+                stop-color="#edf3f5">
+            </stop>
+
+            <stop
+                offset="0.70"
+                stop-color="#dee9ec">
+            </stop>
+
+            <stop
+                offset="0.72"
+                stop-color="#d8e4e8">
+            </stop>
+
+            <stop
+                offset="0.76"
+                stop-color="#ccd8df">
+            </stop>
+
+            <stop
+                offset="0.80"
+                stop-color="#c8d5dd">
+            </stop>
+
+            <stop
+                offset="0.83"
+                stop-color="#ccd6de">
+            </stop>
+
+            <stop
+                offset="0.85"
+                stop-color="#d8dbe2">
+            </stop>
+
+            <stop
+                offset="0.88"
+                stop-color="#ede3e9">
+            </stop>
+
+            <stop
+                offset="0.90"
+                stop-color="#ffebef">
+            </stop>
+
+
+        </radialGradient>
+
+        <circle
+            id="Background_Ear_Right"
+            fill="url(#Gradient_Background_Ear_Right)"
+            cx="74.4067"
+            cy="53.66"
+            r="8.4067">
+        </circle>
+
+        <radialGradient
+            id="Gradient_Background_Ear_Left"
+            cx="33.77"
+            cy="61.27"
+            r="16.9933"
+            gradientTransform="matrix(1 0 0 -1 0 110)"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0.00"
+                stop-color="#feffff">
+            </stop>
+
+            <stop
+                offset="0.40"
+                stop-color="#feffff">
+            </stop>
+
+            <stop
+                offset="0.51"
+                stop-color="#f9fcfc">
+            </stop>
+
+            <stop
+                offset="0.62"
+                stop-color="#edf3f5">
+            </stop>
+
+            <stop
+                offset="0.70"
+                stop-color="#dee9ec">
+            </stop>
+
+            <stop
+                offset="0.72"
+                stop-color="#d8e4e8">
+            </stop>
+
+            <stop
+                offset="0.76"
+                stop-color="#ccd8df">
+            </stop>
+
+            <stop
+                offset="0.80"
+                stop-color="#c8d5dd">
+            </stop>
+
+            <stop
+                offset="0.83"
+                stop-color="#ccd6de">
+            </stop>
+
+            <stop
+                offset="0.85"
+                stop-color="#d8dbe2">
+            </stop>
+
+            <stop
+                offset="0.88"
+                stop-color="#ede3e9">
+            </stop>
+
+            <stop
+                offset="0.90"
+                stop-color="#ffebef">
+            </stop>
+
+        </radialGradient>
+
+        <circle
+            id="Background_Ear_Left"
+            fill="url(#Gradient_Background_Ear_Left)"
+            cx="33.5933"
+            cy="53.66"
+            r="8.4067">
+        </circle>
+
+        <radialGradient
+            id="Gradient_Background_Face"
+            cx="54.5367"
+            cy="-6.0443"
+            r="51.26"
+            gradientTransform="matrix(1 0 0 -0.7 0 42.26)"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0.00"
+                stop-color="#feffff">
+            </stop>
+
+            <stop
+                offset="0.40"
+                stop-color="#feffff">
+            </stop>
+
+            <stop
+                offset="0.51"
+                stop-color="#f9fcfc">
+            </stop>
+
+            <stop
+                offset="0.62"
+                stop-color="#edf3f5">
+            </stop>
+
+            <stop
+                offset="0.70"
+                stop-color="#dee9ec">
+            </stop>
+
+            <stop
+                offset="0.72"
+                stop-color="#d8e4e8">
+            </stop>
+
+            <stop
+                offset="0.76"
+                stop-color="#ccd8df">
+            </stop>
+
+            <stop
+                offset="0.80"
+                stop-color="#c8d5dd">
+            </stop>
+
+            <stop
+                offset="0.83"
+                stop-color="#ccd6de">
+            </stop>
+
+            <stop
+                offset="0.85"
+                stop-color="#d8dbe2">
+            </stop>
+
+            <stop
+                offset="0.88"
+                stop-color="#ede3e9">
+            </stop>
+
+            <stop
+                offset="0.90"
+                stop-color="#ffebef">
+            </stop>
+
+        </radialGradient>
+
+        <ellipse
+            id="Background_Face"
+            fill="url(#Gradient_Background_Face)"
+            cx="54.02"
+            cy="60.88"
+            rx="24"
+            ry="18">
+        </ellipse>
+
+    </g>
+
+    <g
+        id="Foreground">
+
+        <radialGradient
+            id="Gradient_Foreground_Eye_Right"
+            cx="-391.0182"
+            cy="159.8744"
+            r="4.2833"
+            gradientTransform="matrix(-1.07 0 0 -1.55 -353.2 308.31)"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0.00"
+                stop-color="#ff6600">
+            </stop>
+
+            <stop
+                offset="0.50"
+                stop-color="#ff4500">
+            </stop>
+
+            <stop
+                offset="0.70"
+                stop-color="#fc4301">
+            </stop>
+
+            <stop
+                offset="0.82"
+                stop-color="#f43f07">
+            </stop>
+
+            <stop
+                offset="0.92"
+                stop-color="#e53812">
+            </stop>
+
+            <stop
+                offset="1.00"
+                stop-color="#d4301f">
+            </stop>
+
+        </radialGradient>
+
+        <path
+            id="Foreground_Eye_Right"
+            d="M61.1167,59.16c0.14,3.0267,2.1633,4.1267,4.52,4.1267c2.3567,0,4.1533-1.6433,4.0133-4.67C69.51,55.59,67.4867,53.61,65.13,53.61c-2.3567,0-4.1533,2.5267-4.0133,5.5533V59.16z"
+            fill="url(#Gradient_Foreground_Eye_Right)">
+        </path>
+
+        <ellipse
+            id="Foreground_Shine_Right"
+            fill="#ffc49c"
+            cx="66.7367"
+            cy="56.79"
+            rx="0.9333"
+            ry="1.0167">
+        </ellipse>
+
+        <radialGradient
+            id="Gradient_Foreground_Eye_Left"
+            cx="-48.8476"
+            cy="159.8744"
+            r="4.2833"
+            gradientTransform="matrix(1.07 0 0 -1.55 95.15 308.31)"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0.00"
+                stop-color="#ff6600">
+            </stop>
+
+            <stop
+                offset="0.50"
+                stop-color="#ff4500">
+            </stop>
+
+            <stop
+                offset="0.70"
+                stop-color="#fc4301">
+            </stop>
+
+            <stop
+                offset="0.82"
+                stop-color="#f43f07">
+            </stop>
+
+            <stop
+                offset="0.92"
+                stop-color="#e53812">
+            </stop>
+
+            <stop
+                offset="1.00"
+                stop-color="#d4301f">
+            </stop>
+
+        </radialGradient>
+
+        <path
+            id="Foreground_Eye_Left"
+            d="M46.9267,59.16c-0.14,3.0267-2.1633,4.1267-4.52,4.1267s-4.1533-1.6433-4.0133-4.67c0.14-3.0267,2.1633-5.0067,4.52-5.0067s4.1533,2.5267,4.0133,5.5533V59.16z"
+            fill="url(#Gradient_Foreground_Eye_Left)">
+        </path>
+
+        <ellipse
+            id="Foreground_Shine_Left"
+            fill="#ffc49c"
+            cx="44.5433"
+            cy="56.79"
+            rx="0.9333"
+            ry="1.0167">
+        </ellipse>
+
+        <path
+            id="Foreground_Eye_Shadow"
+            d="M38.94,58.8833c0.13-2.8533,2.0267-4.72,4.23-4.72c2.0867,0,3.7,2.13,3.76,4.7767c0.0567-2.96-1.71-5.33-4.0167-5.33c-2.3067,0-4.38,2.0167-4.52,5.0667s1.6567,4.61,4.0133,4.61H42.58c-2.1467-0.0533-3.7667-1.5967-3.6367-4.4L38.94,58.8833z M69.1,58.8833c-0.13-2.8533-2.0267-4.72-4.23-4.72c-2.0867,0-3.7,2.13-3.76,4.7767c-0.0567-2.96,1.71-5.33,4.0167-5.33c2.3567,0,4.38,2.0167,4.52,5.0667s-1.6567,4.61-4.0133,4.61H65.46c2.1467-0.0533,3.7667-1.5967,3.6367-4.4L69.1,58.8833z"
+            fill="#842123">
+        </path>
+
+        <radialGradient
+            id="Gradient_Foreground_Mouth"
+            cx="53.9767"
+            cy="-18.4917"
+            r="15.1"
+            gradientTransform="matrix(1 0 0 -0.66 0 61.66)"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0.00"
+                stop-color="#172e35">
+            </stop>
+
+            <stop
+                offset="0.29"
+                stop-color="#0e1c21">
+            </stop>
+
+            <stop
+                offset="0.73"
+                stop-color="#030708">
+            </stop>
+
+            <stop
+                offset="1.00"
+                stop-color="#000000">
+            </stop>
+
+        </radialGradient>
+
+        <path
+            id="Foreground_Mouth"
+            d="M54.02,65.64c-2.92,0-5.72,0.1433-8.3067,0.4067C45.27,66.09,44.99,66.55,45.1633,66.96c1.45,3.4633,4.87,5.8967,8.8567,5.8967s7.41-2.4333,8.8567-5.8967c0.1733-0.41-0.11-0.87-0.55-0.9133C59.7367,65.7833,56.94,65.64,54.02,65.64L54.02,65.64z"
+            fill="url(#Gradient_Foreground_Mouth)">
+        </path>
+
+        <radialGradient
+            id="Foreground_Antenna_Ball"
+            cx="67.2933"
+            cy="76.918"
+            r="13.2567"
+            gradientTransform="matrix(1 0 0 -0.98 0 104.32)"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0.00"
+                stop-color="#feffff">
+            </stop>
+
+            <stop
+                offset="0.40"
+                stop-color="#feffff">
+            </stop>
+
+            <stop
+                offset="0.51"
+                stop-color="#f9fcfc">
+            </stop>
+
+            <stop
+                offset="0.62"
+                stop-color="#edf3f5">
+            </stop>
+
+            <stop
+                offset="0.70"
+                stop-color="#dee9ec">
+            </stop>
+
+            <stop
+                offset="0.72"
+                stop-color="#d8e4e8">
+            </stop>
+
+            <stop
+                offset="0.76"
+                stop-color="#ccd8df">
+            </stop>
+
+            <stop
+                offset="0.80"
+                stop-color="#c8d5dd">
+            </stop>
+
+            <stop
+                offset="0.83"
+                stop-color="#ccd6de">
+            </stop>
+
+            <stop
+                offset="0.85"
+                stop-color="#d8dbe2">
+            </stop>
+
+            <stop
+                offset="0.88"
+                stop-color="#ede3e9">
+            </stop>
+
+            <stop
+                offset="0.90"
+                stop-color="#ffebef">
+            </stop>
+
+        </radialGradient>
+
+        <circle
+            id="Foreground_Antenna_Ball"
+            fill="url(#Foreground_Antenna_Ball)"
+            cx="67.1633"
+            cy="34.4767"
+            r="5.9567">
+        </circle>
+
+        <radialGradient
+            id="Foreground_Antenna"
+            cx="61.77"
+            cy="67.64"
+            r="10.8667"
+            gradientTransform="matrix(1 0 0 -1 0 110)"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0.48"
+                stop-color="#7a9299">
+            </stop>
+
+            <stop
+                offset="0.67"
+                stop-color="#172e35">
+            </stop>
+
+            <stop
+                offset="0.75"
+                stop-color="#000000">
+            </stop>
+
+            <stop
+                offset="0.82"
+                stop-color="#172e35">
+            </stop>
+
+        </radialGradient>
+
+        <path
+            id="Foreground_Antenna"
+            d="M53.9333,43.64c-0.7133,0-1.29-0.2967-1.29-0.7567c0-5.3367,4.3433-9.68,9.68-9.68c0.7133,0,1.29,0.5767,1.29,1.29s-0.5767,1.29-1.29,1.29c-3.9133,0-7.0967,3.1833-7.0967,7.0967c0,0.46-0.5767,0.7567-1.29,0.7567L53.9333,43.64z"
+            fill="url(#Foreground_Antenna)">
+        </path>
+
+    </g>
+
+    <g
+        id="Monochrome"
+        display="none">
+
+        <path
+            d="M67.67,56.79c0,0.5615-0.4178,1.0167-0.9333,1.0167s-0.9333-0.4552-0.9333-1.0167c0-0.5615,0.4178-1.0167,0.9333-1.0167S67.67,56.2285,67.67,56.79z M82.8134,53.66c0,3.3524-1.9672,6.2379-4.8058,7.5878C77.7456,71.0184,67.1104,78.88,54.02,78.88c-13.0816,0-23.7111-7.8511-23.9869-17.6127c-2.8607-1.3414-4.8465-4.2389-4.8465-7.6074c0-4.6429,3.7638-8.4067,8.4067-8.4067c1.9337,0,3.7094,0.6597,5.1298,1.757c3.825-2.3755,8.6541-3.8622,13.9338-4.085c-0.0013-0.0151-0.0136-0.0266-0.0136-0.042c0-5.0026,3.8165-9.1321,8.6901-9.6296c0.5643-2.703,2.9594-4.7336,5.8299-4.7336c3.2898,0,5.9567,2.6669,5.9567,5.9567s-2.6669,5.9567-5.9567,5.9567c-2.8147,0-5.1675-1.9546-5.7901-4.5789c-3.4646,0.4667-6.1466,3.4351-6.1466,7.0255c0,0.0146-0.0117,0.0253-0.0128,0.0396c5.3359,0.197,10.2194,1.6837,14.0817,4.0767c1.4173-1.0887,3.1858-1.743,5.1111-1.743C79.0496,45.2533,82.8134,49.0171,82.8134,53.66z M42.4067,63.2867c2.3568,0,4.38-1.1,4.52-4.1267v0.0033c0.14-3.0266-1.6566-5.5533-4.0133-5.5533s-4.38,1.98-4.52,5.0067C38.2534,61.6434,40.05,63.2867,42.4067,63.2867z M62.3267,66.0467C59.7367,65.7833,56.94,65.64,54.02,65.64c-2.92,0-5.72,0.1433-8.3067,0.4067C45.27,66.09,44.99,66.55,45.1633,66.96c1.45,3.4633,4.87,5.8967,8.8567,5.8967s7.41-2.4333,8.8567-5.8967C63.05,66.55,62.7667,66.09,62.3267,66.0467z M69.65,58.6167C69.51,55.59,67.4867,53.61,65.13,53.61s-4.1533,2.5267-4.0133,5.5533V59.16c0.14,3.0267,2.1633,4.1267,4.52,4.1267S69.79,61.6434,69.65,58.6167z M44.5433,55.7733c-0.5154,0-0.9333,0.4552-0.9333,1.0167c0,0.5615,0.4178,1.0167,0.9333,1.0167c0.5155,0,0.9333-0.4552,0.9333-1.0167C45.4766,56.2285,45.0588,55.7733,44.5433,55.7733z"
+            fill="#ffffff">
+        </path>
+
+    </g>
+
+    <g
+        id="Safe"
+        opacity="0.00">
+
+        <path
+
+            id="Safe_Square"
+            d="M82,90H26c-4.4183,0-8-3.5817-8-8V26c0-4.4183,3.5817-8,8-8h56c4.4183,0,8,3.5817,8,8v56C90,86.4183,86.4183,90,82,90z"
+            opacity="0.10">
+        </path>
+
+        <path
+
+            id="Safe_Circle"
+            d="M54,18c19.8822,0,36,16.1177,36,36S73.8822,90,54,90S18,73.8822,18,54S34.1177,18,54,18z"
+            opacity="0.10">
+        </path>
+
+    </g>
+
+</svg>

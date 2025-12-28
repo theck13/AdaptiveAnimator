@@ -1,7 +1,7 @@
 [versions]
 activity = "1.12.2"
 compose = "2025.12.01"
-gradle = "8.13.1"
+gradle = "8.13.2"
 kotlin = "2.2.21"
 
 [libraries]

@@ -84,6 +84,18 @@ private enum class Clip(
         topEnd = SIZE_FULL / 60,
         topStart = SIZE_FULL / 60,
     ),
+    LeafEnd(
+        bottomEnd = SIZE_FULL / 3,
+        bottomStart = SIZE_FULL / 8,
+        topEnd = SIZE_FULL / 8,
+        topStart = SIZE_FULL / 3,
+    ),
+    LeafStart(
+        bottomEnd = SIZE_FULL / 8,
+        bottomStart = SIZE_FULL / 3,
+        topEnd = SIZE_FULL / 3,
+        topStart = SIZE_FULL / 8,
+    ),
     TeardropEnd(
         bottomEnd = SIZE_FULL / 10,
         bottomStart = SIZE_FULL / 2,

@@ -13,27 +13,35 @@ The app cycles through six shapes when the icon is double-tapped and demonstrate
 <table>
     <tr>
         <th
-            width="16%">
+            width="12.5%">
             Circle
         </th>
         <th
-            width="16%">
+            width="12.5%">
             Squircle
         </th>
         <th
-            width="16%">
+            width="12.5%">
             Corners Rounded
         </th>
         <th
-            width="16%">
+            width="12.5%">
             Corners Squared
         </th>
         <th
-            width="16%">
+            width="12.5%">
+            Leaf End
+        </th>
+        <th
+            width="12.5%">
+            Leaf Start
+        </th>
+        <th
+            width="12.5%">
             Teardrop End
         </th>
         <th
-            width="16%">
+            width="12.5%">
             Teardrop Start
         </th>
     </tr>
@@ -41,7 +49,7 @@ The app cycles through six shapes when the icon is double-tapped and demonstrate
         <td>
             <img
                 alt="Screenshot of Device with Alpenglow Wallpaper and App Icon with Circle Shape"
-                src="https://github.com/user-attachments/assets/f951a626-7ee0-4e9b-a2c1-f289440575cd"
+                src="https://github.com/user-attachments/assets/85e81bb5-843e-4ccc-99eb-a5d46641861a"
                 height="2424"
                 width="1080"
             />
@@ -49,7 +57,7 @@ The app cycles through six shapes when the icon is double-tapped and demonstrate
         <td>
             <img
                 alt="Screenshot of Device with Alpenglow Wallpaper and App Icon with Squircle Shape"
-                src="https://github.com/user-attachments/assets/1a92f099-0dc2-4399-882f-30d16adfa3ad"
+                src="https://github.com/user-attachments/assets/d4313cee-e955-4364-a8ab-80a2aea48429"
                 height="2424"
                 width="1080"
             />
@@ -57,7 +65,7 @@ The app cycles through six shapes when the icon is double-tapped and demonstrate
         <td>
             <img
                 alt="Screenshot of Device with Alpenglow Wallpaper and App Icon with Corners Rounded Shape"
-                src="https://github.com/user-attachments/assets/05c2a52d-fc38-4218-af19-630a162b170f"
+                src="https://github.com/user-attachments/assets/9e13db97-e430-4540-b4d2-0609891016a5"
                 height="2424"
                 width="1080"
             />
@@ -65,7 +73,23 @@ The app cycles through six shapes when the icon is double-tapped and demonstrate
         <td>
             <img
                 alt="Screenshot of Device with Alpenglow Wallpaper and App Icon with Corners Squared Shape"
-                src="https://github.com/user-attachments/assets/8f9b82b5-dcaf-442b-ad1a-e4c119f43fb5"
+                src="https://github.com/user-attachments/assets/263709a6-646f-4191-bf2e-2f28c7a01c68"
+                height="2424"
+                width="1080"
+            />
+        </td>
+        <td>
+            <img
+                alt="Screenshot of Device with Alpenglow Wallpaper and App Icon with Leaf End Shape"
+                src="https://github.com/user-attachments/assets/99a60cdd-4e2b-4637-a517-bca53deae7ec"
+                height="2424"
+                width="1080"
+            />
+        </td>
+        <td>
+            <img
+                alt="Screenshot of Device with Alpenglow Wallpaper and App Icon with Leaf Start Shape"
+                src="https://github.com/user-attachments/assets/2dd2fa22-8fb2-41bc-8831-3432189ca4a8"
                 height="2424"
                 width="1080"
             />
@@ -73,7 +97,7 @@ The app cycles through six shapes when the icon is double-tapped and demonstrate
         <td>
             <img
                 alt="Screenshot of Device with Alpenglow Wallpaper and App Icon with Teardrop End Shape"
-                src="https://github.com/user-attachments/assets/5ab84c02-2e42-42d5-9355-1c1c64a94ecd"
+                src="https://github.com/user-attachments/assets/387db597-2bf2-44c1-a006-a6e714f88231"
                 height="2424"
                 width="1080"
             />
@@ -81,7 +105,7 @@ The app cycles through six shapes when the icon is double-tapped and demonstrate
         <td>
             <img
                 alt="Screenshot of Device with Alpenglow Wallpaper and App Icon with Teardrop Start Shape"
-                src="https://github.com/user-attachments/assets/c6ed11e2-f51c-45ea-8028-4d230e6f11ba"
+                src="https://github.com/user-attachments/assets/0ff18299-c215-472f-bcc0-80a1298e8d47"
                 height="2424"
                 width="1080"
             />

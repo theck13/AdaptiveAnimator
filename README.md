@@ -130,7 +130,7 @@ Follow the steps below to test adaptive icon animations with the Adaptive Animat
 ### Debug
 
 1. Clone repository with [HTTPS](https://github.com/theck13/AdaptiveAnimator.git) or [SSH](git@github.com:theck13/AdaptiveAnimator.git).
-2. Open repository with [Android Studio Otter | 2025.2.1 Patch 1](https://developer.android.com/studio/archive).
+2. Open repository with [Android Studio Quail 3 | 2026.1.3 Patch 1](https://developer.android.com/studio/archive).
 3. Connect device or emulator.
 4. Run `app` configuration.
 
